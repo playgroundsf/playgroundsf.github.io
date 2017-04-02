@@ -8,3 +8,5 @@ sidebar: mydoc_sidebar
 permalink: mydoc_typography.html
 folder: mydoc
 ---
+
+Under construction, come back later :)

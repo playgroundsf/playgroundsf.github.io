@@ -8,10 +8,10 @@
     src: url('./fonts/Oxygen-Bold.ttf');
 }
 
-
 body {
     font-size: 16px;
     font-family: 'Oxygen', sans-serif;
+    color: #5876a3;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,6 +20,16 @@ h1, h2, h3, h4, h5, h6 {
 
 b, strong {
   font-family: '"Oxygen Bold', sans-serif;
+}
+
+p {
+  line-height: 1.8;
+}
+
+.color-box {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
 }
 
 .bs-callout {
