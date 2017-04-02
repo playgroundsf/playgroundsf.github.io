@@ -5,7 +5,7 @@ tags:
 toc: false
 sidebar: mydoc_sidebar
 permalink: index.html
-summary:
+summary: This design guideline is to help you make better and quicker design decisions.
 ---
 
 ## Build the Theme
