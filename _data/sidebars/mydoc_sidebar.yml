@@ -48,8 +48,8 @@ entries:
       url: /mydoc_localization.html
       output: web, pdf
 
-    - title: Message
-      url: /mydoc_message.html
+    - title: Messaging
+      url: /mydoc_messaging.html
       output: web, pdf
 
     - title: Navigation
