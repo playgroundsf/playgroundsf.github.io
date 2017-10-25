@@ -1,7 +1,7 @@
 # Site settings
-title: Recycle Wizard iOS application web landig page
+title: Recycle Wizard iOS application
 email:
-description: Recycle Wizard iOS application web landig page
+description: Recycle Wizard iOS application
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://playgroundsf.github.io" # the base hostname & protocol for your site
